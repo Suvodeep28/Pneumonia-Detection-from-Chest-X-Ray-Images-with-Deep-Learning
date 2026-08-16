@@ -1,0 +1,15 @@
+__pycache__/
+.venv/
+venv/
+.env
+.DS_Store
+
+data/
+dataset/
+datasets/
+
+*.h5
+*.keras
+*.pth
+*.pt
+*.ckpt
